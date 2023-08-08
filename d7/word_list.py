@@ -1,0 +1,27 @@
+word_list = [
+    'python', 'hangman', 'computer', 'programming', 'language', 'keyboard', 'mouse', 'screen', 'monitor', 'internet',
+    'website', 'database', 'algorithm', 'variable', 'function', 'array', 'loop', 'condition', 'class', 'object',
+    'inheritance', 'encapsulation', 'polymorphism', 'abstraction', 'module', 'library', 'import', 'argument',
+    'parameter', 'string', 'integer', 'float', 'boolean', 'list', 'tuple', 'dictionary', 'set', 'file', 'exception',
+    'try', 'except', 'finally', 'raise', 'index', 'slice', 'range', 'concatenate', 'append', 'pop', 'remove',
+    'len', 'sort', 'reverse', 'max', 'min', 'sum', 'average', 'math', 'random', 'time', 'datetime', 'if', 'else',
+    'elif', 'while', 'for', 'break', 'continue', 'pass', 'return', 'lambda', 'map', 'filter', 'reduce', 'zip',
+    'enumerate', 'join', 'replace', 'split', 'lower', 'upper', 'capitalize', 'strip', 'isalpha', 'isdigit',
+    'isspace', 'startswith', 'endswith', 'format', 'print', 'input', 'open', 'read', 'write', 'close', 'seek',
+    'tell', 'with', 'as', 'del', 'try', 'except', 'finally', 'assert', 'global', 'nonlocal', 'and', 'or', 'not',
+    'True', 'False', 'None', 'is', 'in', 'pass', 'while', 'for', 'def', 'class', 'import', 'from', 'as', 'raise',
+    'if', 'elif', 'else', 'try', 'except', 'finally', 'with', 'lambda', 'yield', 'continue', 'break', 'assert',
+    'return', 'global', 'nonlocal', 'del', 'async', 'await', 'asyncio', 'beautifulsoup', 'requests', 'numpy',
+    'pandas', 'matplotlib', 'tensorflow', 'scikit-learn', 'django', 'flask', 'sqlalchemy', 'pygame', 'kivy',
+    'tkinter', 'pyqt', 'wxpython', 'jupyter', 'anaconda', 'pip', 'virtualenv', 'git', 'github', 'markdown',
+    'json', 'xml', 'csv', 'yaml', 'html', 'css', 'javascript', 'bootstrap', 'jquery', 'react', 'angular',
+    'vue', 'nodejs', 'express', 'mongodb', 'mysql', 'postgresql', 'sqlite', 'aws', 'azure', 'docker', 'kubernetes',
+    'heroku', 'rest', 'api', 'oauth', 'jwt', 'ssl', 'http', 'https', 'smtp', 'imap', 'pop3', 'tcp', 'udp', 'ip',
+    'mac', 'url', 'uri', 'crud', 'mvc', 'mvvm', 'api', 'cli', 'gui', 'ui', 'ux', 'dbms', 'cdn', 'cdn',
+    'dns', 'www', 'iot', 'ai', 'ml', 'dl', 'nlp', 'cv', 'neural', 'algorithm', 'encryption', 'decryption',
+    'compression', 'decompression', 'sorting', 'searching', 'graph', 'tree', 'hash', 'queue', 'stack', 'heap',
+    'linked', 'list', 'sort', 'bubble', 'merge', 'quick', 'insertion', 'selection', 'binary', 'linear', 'bfs',
+    'dfs', 'dijkstra', 'a*', 'bellman', 'ford', 'kruskal', 'prim', 'union', 'find', 'dynamic', 'programming',
+    'greedy', 'backtracking', 'divide', 'conquer', 'bit', 'manipulation', 'regex', 'recursion', 'iteration'
+    # Add more words as you like
+]
