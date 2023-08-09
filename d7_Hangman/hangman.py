@@ -1,8 +1,8 @@
 import random
 
-from d7.art_hangman import stages
-from d7.art_hangman import hangman_start
-from d7.word_list import word_list
+from d7_Hangman.art_hangman import stages
+from d7_Hangman.art_hangman import hangman_start
+from d7_Hangman.word_list import word_list
 
 display = []
 chosen_word = random.choice(word_list)
