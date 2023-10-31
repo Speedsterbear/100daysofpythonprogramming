@@ -12,7 +12,7 @@ def game(att):
     gn = random.randint(0, 100)
     eq = False
     # Track the number of turns remaining.
-    while lives > 0 and eq == False:
+    while lives > 0 and eq is False:
         guess = int(input('Make a guess:'))
         if guess == gn:
             # If they got the answer correct, show the actual answer to the player.
@@ -38,7 +38,3 @@ if diff == 'easy':
     game(10)
 elif diff == 'hard':
     game(5)
-
-
-
-
